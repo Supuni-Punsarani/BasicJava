@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf63194-0431-4bff-b2bd-c6b8c4168d9e" name="Changes" comment="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8cf63194-0431-4bff-b2bd-c6b8c4168d9e" name="Changes" comment="string operations">
       <change beforePath="$PROJECT_DIR$/src/SampleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SampleWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696935443396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="string operations">
+      <created>1697305355770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697305355770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My window" />
     <MESSAGE value="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials." />
-    <option name="LAST_COMMIT_MESSAGE" value="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials." />
+    <MESSAGE value="string operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="string operations" />
   </component>
 </project>
