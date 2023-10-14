@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf63194-0431-4bff-b2bd-c6b8c4168d9e" name="Changes" comment="My window">
+    <list default="true" id="8cf63194-0431-4bff-b2bd-c6b8c4168d9e" name="Changes" comment="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SampleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SampleWindow.java" afterDir="false" />
     </list>
@@ -35,12 +35,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SampleWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SampleWindow" />
@@ -71,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696925261941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials.">
+      <created>1696935400801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696935400801</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials.">
+      <created>1696935443396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696935443396</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My window" />
-    <option name="LAST_COMMIT_MESSAGE" value="My window" />
+    <MESSAGE value="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials." />
+    <option name="LAST_COMMIT_MESSAGE" value="Write an application that asks for the user’s first, middle, and last &#10;names and replies with the user’s initials." />
   </component>
 </project>
