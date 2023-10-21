@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        int sum=0;
+        int i=11;
+        while(i<=20){
+            sum+=i;
+            i+=1;
+        }
+        System.out.println("sum of 11 to 20 numbers : "+sum);
+    }
+}
