@@ -1,0 +1,25 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner =new Scanner(System.in);
+        System.out.println("Enter your mark:");
+        int mark=scanner.nextInt();
+        char letter;
+        if(mark>80 && mark<=100)
+            letter='A';
+        else if(mark>70 && mark<=80)
+            letter='B';
+        else if(mark>60 && mark<=70)
+            letter='C';
+        else if(mark>50 && mark<=60)
+            letter='D';
+        else if(mark>40 && mark<=50)
+            letter='E';
+        else
+            letter='F';
+
+        System.out.println("Your grade is: "+letter);
+
+    }
+}
