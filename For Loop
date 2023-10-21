@@ -1,0 +1,10 @@
+public class Main {
+
+    public static void main(String[] args) {
+       int product=1;
+        for(int num=5;num<=50;num+=5){
+            product*=num;
+        }
+        System.out.println("product numbers 5 to 50: "+product);
+    }
+}
